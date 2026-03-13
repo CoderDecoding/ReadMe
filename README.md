@@ -9,10 +9,7 @@
 **Data Scientist Engineer | Software Enthusiast**
 *Passionate about Python, C++, and Scalable Data Solutions*
 
----
 
-### 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
 
 ---
 
