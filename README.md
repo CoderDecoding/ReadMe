@@ -51,3 +51,10 @@ MY DISCRIPTION
 <img src="https://img.shields.io/badge/NumPy-Data%20Science-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+👨‍💻 Author
+CoderDecoding
+
+GitHub: github.com/CoderDecoding
+
+Specialties: Pythonic Data Science & Low-level C++ Optimization.
