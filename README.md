@@ -41,3 +41,7 @@ MY DISCRIPTION
 ## 🐍 My Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![License](https://img.shields.io/github/license/CoderDecoding/YourRepoName?style=for-the-badge)
+
