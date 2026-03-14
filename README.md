@@ -1,3 +1,22 @@
+
+<div align="center">
+
+# Hi there 👋 I'm CoderDecoding
+### 🎓 Data Scientist Engineer in the making
+
+> **"Turning coffee into code, messy data into Python logic, and bugs into lessons."** ✨
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+by+day;Professional+Googler+by+night;Mastering+Python+and+C%2B%2B;Building+Sentira-Core+AI)](https://git.io/typing-svg)
+
+---
+
+### 💻 Tech I'm Decoding
+`Python` • `C++` • `SQL` • `HTML` • `Machine Learning`
+
+</div>
+
+
+
 <img src=<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9a20ccbe-2f13-4531-993e-29139d8a0295" /> alt="CoderDecoding Banner" width="100%">
 
 <div align="center">
