@@ -38,6 +38,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=radical&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+</p>
 
 
 ---
