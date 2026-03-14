@@ -26,10 +26,6 @@
 ![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDecoding&repo=Sentira-Core&theme=radical" />
-</p>
-
 ---
 
 
