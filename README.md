@@ -34,12 +34,10 @@
 
 ### 📊 GitHub Metrics & Activity
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical" alt="Langs" />
+ p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical" alt="Langs" />
+</p>
     </td>
   </tr>
   <tr>
