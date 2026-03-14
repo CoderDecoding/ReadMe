@@ -26,15 +26,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical" alt="Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDecoding&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
+
 
 
 
 ### 📊 GitHub Metrics & Activity
 <table>
- p align="center">
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=CoderDecoding&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDecoding&layout=compact&theme=radical" alt="Langs" />
 </p>
