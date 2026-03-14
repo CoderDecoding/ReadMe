@@ -26,6 +26,8 @@
 ---
 
 ---
+![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
+
 
 
 
