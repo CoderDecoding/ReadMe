@@ -22,8 +22,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoderDecoding&labelColor=%23263238&countColor=%23ff47da&style=flat-square)
 
----
-![snake gif](https://raw.githubusercontent.com/CoderDecoding/CoderDecoding/output/github-contribution-grid-snake.svg)
 
 
 ---
