@@ -1,5 +1,4 @@
-<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9a20ccbe-2f13-4531-993e-29139d8a0295" /> alt="CoderDecoding Banner" width="100%">
-
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9a20ccbe-2f13-4531-993e-29139d8a0295" /> alt="CoderDecoding 
 <div align="center">
 
 <div align="center">
